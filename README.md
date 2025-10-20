@@ -2,7 +2,7 @@
 # Hi there, I'm Campbell 👋<br><br>Welcome to my GitHub profile! I'm a passionate technology enthusiat who loves  learning new technologies.<br><br> 🚀 About Me<br><br>- 🔭 I’m currently working on: Random projects<br>- 🌱 I’m currently learning: Backend development<br>- 💬 Ask me about: anything that peaks your intrests<br>- 📫 How to reach me: pop an email too campbellswan8@gmail<br>- ⚡ Fun fact: i dont like beetroot
 
 
-## 🌐 Socials:
+## 🌐 **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/campbell-swan) 
 
 # 💻 Tech Stack:
