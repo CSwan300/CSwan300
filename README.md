@@ -1,7 +1,8 @@
 # 💫 About Me:
 # Hi there, I'm Campbell a student at Glasgow Caledonian University 
-👋<br><br>Welcome to my GitHub profile! I'm a passionate technology enthusiat who loves  learning new technologies.<br><br> 🚀 About Me<br><br>- 🔭 I’m currently working on: Random projects<br>- 🌱 I’m currently learning: Backend development<br>- 💬 Ask me about: anything ill try and figure it out aswell <br>- ⚡ Fun fact: i dont like beetroot
+<br👋<><br>Welcome to my GitHub profile! I'm a passionate technology enthusiat who loves  learning new technologies.<br><br> 🚀 About Me<br><br>- 🔭 I’m currently working on: Random projects<br>- 🌱 I’m currently learning: Backend development<br>- 💬 Ask me about: anything ill try and figure it out aswell <br>- ⚡ Fun fact: i dont like beetroot
 <br>
+- Main Stack Currently -Python (FastApi,Django) React Javascript (some typescript) and java (Some Spring) and a wee bit of c++
 > I'm currently actively seeking internship opportunities to grow my skills and contribute to real-world projects. Browse my repositories to see my coursework, personal projects, and experiments.
 
 > Oracle = One rich As*hole called larry ellison
