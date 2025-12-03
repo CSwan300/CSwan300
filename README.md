@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi there, I'm Campbell a student at Glasgow Caledonian University 
-<br>👋 Welcome to my GitHub profile! I'm a technology enthusiat who loves  learning new technologies.<br><br> 🚀 About Me<br><br>- 🔭 I’m currently working on: Random projects<br>- 🌱 I’m currently learning: Backend development<br>- 💬 Ask me about: anything really im not fussy  <br>- ⚡ Fun fact: i dont like beetroot and i think scott Mctominay is the greatest footballer of all time.
+<br>👋 Welcome to my GitHub profile! I'm a technology enthusiat who loves  learning new technologies.<br><br> 🚀 About Me<br><br>- 🔭 I’m currently working on: Random projects<br>- 🌱 I’m currently learning: Backend development<br>- 💬 Ask me about: anything really im not fussy  <br>- ⚡ Fun fact: i dont like beetroot and i think Scott Mctominay is the greatest footballer of all time.
 <br> 
 - Main Stack Currently -Python (FastApi,Django) React Javascript (some typescript) and java (Some Spring) and a wee bit of c++
 > I'm currently actively seeking internship opportunities to grow my skills and contribute to real-world projects. Browse my repositories to see my coursework, personal projects, and experiments.
