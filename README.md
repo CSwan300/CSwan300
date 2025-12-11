@@ -2,7 +2,7 @@
 
   <img src="https://avatars.githubusercontent.com/u/147725350?v=4" width="200" height="200" style="border-radius: 50%;" alt="Campbell Swan"/>
 
-  # 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Campbell Swan
+  # Campbell Swan
 
   ### 💻 Software Engineering Student | 🎓 Glasgow Caledonian University
 
