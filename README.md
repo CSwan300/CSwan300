@@ -160,6 +160,6 @@ current_focus = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-**⭐ From [CSwan300](https://github.com/CSwan300) | Built with ❤️ in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿**
+**⭐ From [CSwan300](https://github.com/CSwan300)**
 
 </div>
