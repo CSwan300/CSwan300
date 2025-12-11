@@ -22,12 +22,12 @@
 
 I'm a 3rd-year Software Engineering student at Glasgow Caledonian University with a passion for building elegant solutions to complex problems i enjoy on learning new technologies and applying them to real-world projects.
 
-- 🔭 Currently working on various projects
-- 🌱 Learning **DevOps**, **Advanced Data Science**, and **System Design**
-- 👯 Open to collaborate on **open-source projects** and **innovative applications**
-- 💡 Interested in **Full-Stack Development**, **Machine Learning**, and **Cloud Computing**
-- 📍 Based in **Scotland** 
-- ⚡ Fun fact: I'm honestly terrible at CSS (but getting better in my head atleast)
+- ⚡ - Currently working on various projects
+- ⚡ - Learning **DevOps**, **Advanced Data Science**, and **System Design**
+- ⚡ - Open to collaborate on **open-source projects** and **innovative applications**
+- ⚡ - Interested in **Full-Stack Development**, **Machine Learning**, and **Cloud Computing**
+- ⚡ - Based in **Scotland** 
+- ⚡ - Fun fact: I'm honestly terrible at CSS (but getting better in my head atleast)
 
 ---
 
