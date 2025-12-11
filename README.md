@@ -20,7 +20,7 @@
 
 > *"Currently a Scottish crackpot, not a British genius!"* 
 
-I'm a 3rd-year Software Engineering student at Glasgow Caledonian University with a passion for building elegant solutions to complex problems i enjoy on learning new technologies and applying them to real-world projects.
+I'm a 3rd-year Software Engineering student at Glasgow Caledonian University with a passion for building "elegant" (most of the time) solutions to complex problems i enjoy on learning new technologies and applying them to real-world projects.
 
 - ⚡ - Currently working on various projects
 - ⚡ - Learning **DevOps**, **Advanced Data Science**, and **System Design**
