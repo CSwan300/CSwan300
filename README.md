@@ -18,9 +18,11 @@
 
 ## 🎯 About Me
 
+> Massive Scottish Rugby Fan (Freddy Douglas is the next coming of Dan Lancaster) 
 > *"Currently a Scottish crackpot, not a British genius!"* 
 
 I'm a 3rd-year Software Engineering student at Glasgow Caledonian University with a passion for building "elegant" (most of the time) solutions to complex problems i enjoy on learning new technologies and applying them to real-world projects.
+> Open to internships or work experience based opportunities.
 
 - ⚡ - Currently working on various projects
 - ⚡ - Learning **DevOps**, **Advanced Data Science**, and **System Design**
