@@ -51,7 +51,7 @@ I'm a 3rd-year Software Engineering student at Glasgow Caledonian University wit
 
 </div>
 
-### >;P Frameworks & Libraries
+### Frameworks & Libraries
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
