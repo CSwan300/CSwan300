@@ -4,7 +4,7 @@
 
   # Campbell Swan
 
-  ### :) Software Engineering Student | @ Glasgow Caledonian University
+  ### Software Engineering Student | @ Glasgow Caledonian University
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-campbellswan.vercel.app-00C7B7?style=for-the-badge&logo=vercel)](https://campbellswan.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/campbell-swan)
@@ -16,7 +16,8 @@
 
 ---
 
-## >:) About Me
+## About Me
+---
 
 > Massive Scottish Rugby Fan (Freddy Douglas is the next coming of Dan Lancaster) 
 > *"Currently a Scottish crackpot, not a British genius!"* 
@@ -24,18 +25,18 @@
 I'm a 3rd-year Software Engineering student at Glasgow Caledonian University with a passion for building "elegant" (most of the time) solutions to complex problems i enjoy on learning new technologies and applying them to real-world projects.
 > Open to internships or work experience based opportunities.
 
-- --> - Currently working on various projects
-- --> - Learning **DevOps**, **Advanced Data Science**, and **System Design**
-- --> - Open to collaborate on **open-source projects** and **innovative applications**
-- --> - Interested in **Full-Stack Development**, **Machine Learning**, and **Cloud Computing**
-- --> - Based in **Scotland** 
-- --> - Fun fact: I'm honestly terrible at CSS (but getting better in my head atleast)
+-  - Currently working on various projects
+-  - Learning **DevOps**, **Advanced Data Science**, and **System Design**
+-  - Open to collaborate on **open-source projects** and **innovative applications**
+-  - Interested in **Full-Stack Development**, **Machine Learning**, and **Cloud Computing**
+-  - Based in **Scotland** (Mainly Central Belt)
+-  - Fun fact: I'm honestly terrible at CSS (but getting better in my head atleast)
 
 ---
 
-## >:O Tech Stack
+##  Tech Stack
 
-### >;) Languages
+###  Languages
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,7 +62,7 @@ I'm a 3rd-year Software Engineering student at Glasgow Caledonian University wit
 
 </div>
 
-### >:) Data Science & ML
+###  Data Science & ML
 <div align="center">
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -72,7 +73,7 @@ I'm a 3rd-year Software Engineering student at Glasgow Caledonian University wit
 
 </div>
 
-### >:( Databases
+###  Databases
 <div align="center">
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -80,7 +81,7 @@ I'm a 3rd-year Software Engineering student at Glasgow Caledonian University wit
 
 </div>
 
-### :) Tools & Platforms
+###  Tools & Platforms
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -94,7 +95,7 @@ I'm a 3rd-year Software Engineering student at Glasgow Caledonian University wit
 
 ---
 
-## -:) GitHub Stats
+##  GitHub Stats
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=CSwan300&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -113,7 +114,7 @@ I'm a 3rd-year Software Engineering student at Glasgow Caledonian University wit
 
 ---
 
-## >:) Current Focus
+## Current Focus
 
 ```python
 current_focus = {
@@ -125,7 +126,7 @@ current_focus = {
 
 ---
 
-## :) Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
