@@ -25,7 +25,7 @@
 I'm a 3rd-year Software Engineering student at Glasgow Caledonian University with a passion for building "elegant" (most of the time) solutions to complex problems i enjoy on learning new technologies and applying them to real-world projects.
 > Open to internships or work experience based opportunities.
 
--  - Currently working on various projects
+-  - Currently working on various projects (and my six nations fantasy team)
 -  - Learning **DevOps**, **Advanced Data Science**, and **System Design**
 -  - Open to collaborate on **open-source projects** and **innovative applications**
 -  - Interested in **Full-Stack Development**, **Machine Learning**, and **Cloud Computing**
@@ -105,11 +105,11 @@ I'm a 3rd-year Software Engineering student at Glasgow Caledonian University wit
 
 ---
 
-## 🎓 Education
+## Education
 
-**🏫 Glasgow Caledonian University**  
+**Glasgow Caledonian University**  
 *Bachelor of Science (Bsc) - Software Development*  
-📅 Currently in 3rd Year
+-  Currently in 3rd Year
 
 
 ---
@@ -126,14 +126,13 @@ current_focus = {
 
 ---
 
-## Let's Connect!
+## Links to things 
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-campbellswan.vercel.app-00C7B7?style=for-the-badge)](https://campbellswan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Campbell_Swan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/campbell-swan)
-[![GitHub](https://img.shields.io/badge/GitHub-CSwan300-181717?style=for-the-badge&logo=github)](https://github.com/CSwan300)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:campbellswan8l@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:campbellswan8@gmail.com)
 
 </div>
 
@@ -144,7 +143,4 @@ current_focus = {
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-**⭐ From [CSwan300](https://github.com/CSwan300)**
-
 </div>
