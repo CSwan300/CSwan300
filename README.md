@@ -22,7 +22,7 @@
 I'm a 3rd-year Software Engineering student at Glasgow Caledonian University with a passion for building "elegant" (most of the time) solutions to complex problems i enjoy on learning new technologies and applying them to real-world projects.
 > Open to internships or work experience based opportunities.
 
--  - Currently working on various projects (and my six nations fantasy team)
+-  - Currently working on various projects
 -  - Learning **DevOps**, **Advanced Data Science**, and **System Design**
 -  - Open to collaborate on **open-source projects** and **innovative applications**
 -  - Interested in **Full-Stack Development**, **Machine Learning**, and **Cloud Computing**
