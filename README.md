@@ -28,6 +28,6 @@ A Flask dashboard that demonstrates Python thread race conditions in real time â
 **[Bias Auditor](https://github.com/CSwan300/BiasAuditor)**
 A fairness and disparity analysis tool that audits datasets for algorithmic bias using the Four-Fifths (80%) Rule â€” the same threshold used by legal and regulatory bodies. Upload a CSV or Excel file, and it automatically detects protected characteristics, calculates Disparate Impact Ratios, and assigns a risk score with interactive visualisations.
 
-`Python` `FastAPI` `pandas` `Docker` `JavaScript` `GitHub Actions`
+`Python` `FastAPI` `pandas` `Docker` `React` `Typescript` `GitHub Actions`
 
 **And Other (Mostly Fairly Small) Projects**
