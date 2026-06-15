@@ -19,8 +19,9 @@
 ## 🔧 What I'm working on
 
 
-** My Dissertation ** 
+### My Dissertation  
 
 > It will become public when/if i get approval.
+> 
+### Random Mini Projects 
 
-** Honestly just random mini projects mainly around concurrency at the moment **
